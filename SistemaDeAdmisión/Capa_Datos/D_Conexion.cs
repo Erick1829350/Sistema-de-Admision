@@ -7,6 +7,7 @@ namespace Capa_Datos
 {
     public class D_Conexion
     {
+        // URL de la conexion a la base de datos
         private SqlConnection Conexion = new SqlConnection();
         //  Abre la conexion a la base de datos
         public SqlConnection AbrirConexion()
