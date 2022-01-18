@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.deps.json
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.AssemblyInfo.cs
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\acer\Documents\GitHub\Sistema-de-Admision\SistemaDeAdmisión\Capa_Datos\obj\Debug\netcoreapp3.1\Capa_Datos.pdb

@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Negocio\Capa_Negocio.csproj" />
+  </ItemGroup>
+
 </Project>
